@@ -100,7 +100,7 @@ int main(int argc, char *argv[])
     //![6]
     QMainWindow window;
     window.setCentralWidget(chartView);
-    window.resize(720, 600);                // 820
+    window.resize(320, 100);                // 820
     window.show();
     //![6]
 
